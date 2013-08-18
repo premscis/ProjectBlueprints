@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch.fhnw.mscbis.premscis.blueprint.javaapplication.domain;
+package ch.fhnw.mscbis.premscis.blueprint.jpajavaapplication.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
