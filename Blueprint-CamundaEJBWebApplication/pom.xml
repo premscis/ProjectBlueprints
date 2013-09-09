@@ -5,14 +5,14 @@
 
 	<groupId>ch.fhnw.mscbis.premscis</groupId>
 	<artifactId>Blueprint-CamundaEJBWebApplication</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1</version>
 	<packaging>war</packaging>
 
 	<name>Blueprint-CamundaEJBWebApplication</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<camunda.version>7.0.0-alpha9</camunda.version>
+		<camunda.version>7.0.0-Final</camunda.version>
 	</properties>
 
 	<dependencies>
